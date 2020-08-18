@@ -891,6 +891,7 @@
     margin-top: 15px;
 
     i.fas {
+        font-size: 17px;
         color: $accent-color;
         @include transition;
     }
@@ -1002,7 +1003,7 @@
     }
 
     i.fab {
-        font-size: 18px;
+        font-size: 19px;
         color: $accent-color;
         margin-left: 15px;
         @include transition;
