@@ -8,12 +8,12 @@
 	}
 }
 
-@include font('Kaushan Script', normal, 400, '../fonts/kaushanscript-regular-webfont.woff2');
-@include font('Montserrat', normal, 400, '../fonts/montserrat-regular-webfont.woff2');
-@include font('Montserrat', normal, 700, '../fonts/montserrat-bold-webfont.woff2');
-@include font('Roboto', italic, 300, '../fonts/roboto-lightitalic-webfont.woff2');
-@include font('Roboto', normal, 400, '../fonts/roboto-regular-webfont.woff2');
-@include font('Roboto', italic, 400, '../fonts/roboto-italic-webfont.woff2');
+@include font('Kaushan Script', normal, 400, '../fonts/kaushanscript-regular.woff2');
+@include font('Montserrat', normal, 400, '../fonts/montserrat-regular.woff2');
+@include font('Montserrat', normal, 700, '../fonts/montserrat-bold.woff2');
+@include font('Roboto', italic, 300, '../fonts/roboto-lightitalic.woff2');
+@include font('Roboto', normal, 400, '../fonts/roboto-regular.woff2');
+@include font('Roboto', italic, 400, '../fonts/roboto-italic.woff2');
 
 // icon fonts
 @font-face {
