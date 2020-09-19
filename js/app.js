@@ -1,4 +1,9 @@
 $(function() {
+
+	wow = new WOW({
+        mobile: false
+    })
+    wow.init();
 	
 	$(".toggle-mnu").click(function() {
 		if (($(window).width()) < 768) {
